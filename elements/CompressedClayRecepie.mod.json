@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": "Items.CLAY_BALL"
@@ -16,7 +16,10 @@
         "value": "Items.CLAY_BALL"
       },
       {
-        "value": ""
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "Items.CLAY_BALL"
       },
       {
         "value": "Items.CLAY_BALL"
@@ -25,16 +28,13 @@
         "value": "Items.CLAY_BALL"
       },
       {
-        "value": ""
+        "value": "Items.CLAY_BALL"
       },
       {
-        "value": ""
+        "value": "Items.CLAY_BALL"
       },
       {
-        "value": ""
-      },
-      {
-        "value": ""
+        "value": "Items.CLAY_BALL"
       }
     ],
     "recipeReturnStack": {
