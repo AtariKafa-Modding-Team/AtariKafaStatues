@@ -3,9 +3,11 @@
   "block.atarikafa_heykelleri.ellerini_kaldiran_atarikafa": "Ellerini Kaldiran Atarikafa",
   "block.atarikafa_heykelleri.oturan_atarikafa": "Oturan Atarikafa",
   "block.atarikafa_heykelleri.thor_kafa": "Thor Kafa",
+  "item.atarikafa_heykelleri.compressed_clay": "Compressed Clay",
   "block.atarikafa_heykelleri.bloga_tirmanan_atarikafa": "Bloga Tirmanan Atarikafa",
   "block.atarikafa_heykelleri.el_sallayan_atarikafa": "El Sallayan Atarikafa",
   "block.atarikafa_heykelleri.ozgur_kafa": "Ozgur Kafa",
   "block.atarikafa_heykelleri.ucan_atarikafa": "Ucan Atarikafa",
-  "itemGroup.tabatarikafa_heykelleri": "Atarikafa Heykelleri"
+  "itemGroup.tabatarikafa_heykelleri": "Atarikafa Heykelleri",
+  "item.atarikafa_heykelleri.colored_clay": "Colored Clay"
 }

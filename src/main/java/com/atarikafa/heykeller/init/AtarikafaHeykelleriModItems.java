@@ -16,6 +16,9 @@ import net.minecraft.world.item.BlockItem;
 import java.util.List;
 import java.util.ArrayList;
 
+import com.atarikafa.heykeller.item.CompressedClayItem;
+import com.atarikafa.heykeller.item.ColoredClayItem;
+
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class AtarikafaHeykelleriModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
@@ -33,6 +36,8 @@ public class AtarikafaHeykelleriModItems {
 	public static final Item THOR_KAFA = register(AtarikafaHeykelleriModBlocks.THOR_KAFA, AtarikafaHeykelleriModTabs.TAB_ATARIKAFA_HEYKELLERI);
 	public static final Item UCAN_ATARIKAFA = register(AtarikafaHeykelleriModBlocks.UCAN_ATARIKAFA,
 			AtarikafaHeykelleriModTabs.TAB_ATARIKAFA_HEYKELLERI);
+	public static final Item COLORED_CLAY = register(new ColoredClayItem());
+	public static final Item COMPRESSED_CLAY = register(new CompressedClayItem());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);
