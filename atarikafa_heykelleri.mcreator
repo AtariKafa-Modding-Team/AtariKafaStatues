@@ -72,6 +72,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ucan_atarikafa"
+    },
+    {
+      "name": "AtarikafaHeykelleri",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "atarikafa_heykelleri"
     }
   ],
   "variable_elements": [],
@@ -85,7 +94,8 @@
       "block.atarikafa_heykelleri.bloga_tirmanan_atarikafa": "Bloga Tirmanan Atarikafa",
       "block.atarikafa_heykelleri.el_sallayan_atarikafa": "El Sallayan Atarikafa",
       "block.atarikafa_heykelleri.ozgur_kafa": "Ozgur Kafa",
-      "block.atarikafa_heykelleri.ucan_atarikafa": "Ucan Atarikafa"
+      "block.atarikafa_heykelleri.ucan_atarikafa": "Ucan Atarikafa",
+      "itemGroup.tabatarikafa_heykelleri": "Atarikafa Heykelleri"
     }
   },
   "foldersRoot": {

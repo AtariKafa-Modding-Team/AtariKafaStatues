@@ -28,6 +28,8 @@ import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
 
+import com.atarikafa.heykeller.init.AtarikafaHeykelleriModTabs;
+
 @Mod("atarikafa_heykelleri")
 public class AtarikafaHeykelleriMod {
 	public static final Logger LOGGER = LogManager.getLogger(AtarikafaHeykelleriMod.class);
@@ -38,7 +40,7 @@ public class AtarikafaHeykelleriMod {
 	private static int messageID = 0;
 
 	public AtarikafaHeykelleriMod() {
-
+		AtarikafaHeykelleriModTabs.load();
 	}
 
 	public static <T> void addNetworkMessage(Class<T> messageType, BiConsumer<T, FriendlyByteBuf> encoder, Function<FriendlyByteBuf, T> decoder,
