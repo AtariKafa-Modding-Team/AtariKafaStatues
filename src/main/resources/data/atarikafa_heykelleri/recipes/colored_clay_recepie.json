@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_dye"
+    },
+    "1": {
+      "item": "minecraft:white_dye"
+    },
+    "2": {
+      "item": "minecraft:black_dye"
+    },
+    "4": {
+      "item": "atarikafa_heykelleri:compressed_clay"
+    }
+  },
+  "result": {
+    "item": "atarikafa_heykelleri:colored_clay",
+    "count": 1
+  }
+}

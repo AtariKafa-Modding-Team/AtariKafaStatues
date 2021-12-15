@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "atarikafa_heykelleri:colored_clay"
+  },
+  "result": "atarikafa_heykelleri:thor_kafa"
+}

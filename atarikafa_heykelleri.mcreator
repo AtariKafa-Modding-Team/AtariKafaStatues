@@ -99,6 +99,96 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "compressed_clay"
+    },
+    {
+      "name": "ColoredClayRecepie",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "colored_clay_recepie"
+    },
+    {
+      "name": "CompressedClayRecepie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "compressed_clay_recepie"
+    },
+    {
+      "name": "AmudaKalkanAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amuda_kalkan_atarikafa_recepie"
+    },
+    {
+      "name": "BlogaTirmananAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloga_tirmanan_atarikafa_recepie"
+    },
+    {
+      "name": "ElleriniKaldiranAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ellerini_kaldiran_atarikafa_recepie"
+    },
+    {
+      "name": "ElSallayanAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "el_sallayan_atarikafa_recepie"
+    },
+    {
+      "name": "OturanAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oturan_atarikafa_recepie"
+    },
+    {
+      "name": "OzgurKafaRecepie",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ozgur_kafa_recepie"
+    },
+    {
+      "name": "ThorKafaRecepie",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thor_kafa_recepie"
+    },
+    {
+      "name": "UcanAtarikafaRecepie",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ucan_atarikafa_recepie"
     }
   ],
   "variable_elements": [],
@@ -110,7 +200,7 @@
       "block.atarikafa_heykelleri.oturan_atarikafa": "Oturan Atarikafa",
       "block.atarikafa_heykelleri.thor_kafa": "Thor Kafa",
       "item.atarikafa_heykelleri.compressed_clay": "Compressed Clay",
-      "block.atarikafa_heykelleri.bloga_tirmanan_atarikafa": "Bloga Tirmanan Atarikafa",
+      "block.atarikafa_heykelleri.bloga_tirmanan_atarikafa": "Bloða Týrmanan Atarikafa",
       "block.atarikafa_heykelleri.el_sallayan_atarikafa": "El Sallayan Atarikafa",
       "block.atarikafa_heykelleri.ozgur_kafa": "Ozgur Kafa",
       "block.atarikafa_heykelleri.ucan_atarikafa": "Ucan Atarikafa",
