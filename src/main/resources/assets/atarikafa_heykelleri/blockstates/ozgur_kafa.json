@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "atarikafa_heykelleri:block/ozgur_kafa"
+    },
+    "facing=east": {
+      "model": "atarikafa_heykelleri:block/ozgur_kafa",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "atarikafa_heykelleri:block/ozgur_kafa",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "atarikafa_heykelleri:block/ozgur_kafa",
+      "y": 270
+    }
+  }
+}

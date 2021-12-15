@@ -1,10 +1,92 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "AmudaKalkanAtarikafa",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "amuda_kalkan_atarikafa"
+    },
+    {
+      "name": "BlogaTirmananAtarikafa",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bloga_tirmanan_atarikafa"
+    },
+    {
+      "name": "ElleriniKaldiranAtarikafa",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ellerini_kaldiran_atarikafa"
+    },
+    {
+      "name": "ElSallayanAtarikafa",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "el_sallayan_atarikafa"
+    },
+    {
+      "name": "OturanAtarikafa",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oturan_atarikafa"
+    },
+    {
+      "name": "OzgurKafa",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ozgur_kafa"
+    },
+    {
+      "name": "ThorKafa",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thor_kafa"
+    },
+    {
+      "name": "UcanAtarikafa",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ucan_atarikafa"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.atarikafa_heykelleri.amuda_kalkan_atarikafa": "Amuda Kalkan Atarikafa",
+      "block.atarikafa_heykelleri.ellerini_kaldiran_atarikafa": "Ellerini Kaldiran Atarikafa",
+      "block.atarikafa_heykelleri.oturan_atarikafa": "Oturan Atarikafa",
+      "block.atarikafa_heykelleri.thor_kafa": "Thor Kafa",
+      "block.atarikafa_heykelleri.bloga_tirmanan_atarikafa": "Bloga Tirmanan Atarikafa",
+      "block.atarikafa_heykelleri.el_sallayan_atarikafa": "El Sallayan Atarikafa",
+      "block.atarikafa_heykelleri.ozgur_kafa": "Ozgur Kafa",
+      "block.atarikafa_heykelleri.ucan_atarikafa": "Ucan Atarikafa"
+    }
   },
   "foldersRoot": {
     "name": "~",

@@ -1,0 +1,8 @@
+{
+  "parent": "atarikafa_heykelleri:custom/thorkafa",
+  "textures": {
+    "all": "atarikafa_heykelleri:blocks/thorkafa",
+    "particle": "atarikafa_heykelleri:blocks/thorkafa",
+    "2": "atarikafa_heykelleri:blocks/thorkafa"
+  }
+}

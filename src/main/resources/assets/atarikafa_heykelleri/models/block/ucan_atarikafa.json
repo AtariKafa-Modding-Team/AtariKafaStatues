@@ -1,0 +1,8 @@
+{
+  "parent": "atarikafa_heykelleri:custom/ucanatarikafa",
+  "textures": {
+    "all": "atarikafa_heykelleri:blocks/atarikafa",
+    "particle": "atarikafa_heykelleri:blocks/atarikafa",
+    "1": "atarikafa_heykelleri:blocks/atarikafa"
+  }
+}
